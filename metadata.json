@@ -1,0 +1,6 @@
+{
+  "name": "RetailAI SaaS",
+  "description": "Enterprise-grade AI-Powered Retail Analytics & Forecasting platform with sales predictions, dynamic pricing models, multi-branch performance metrics, and automated smart insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
